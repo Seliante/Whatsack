@@ -1,0 +1,7 @@
+echo "# Whatsack" > > README.md
+git init
+git add README.md
+git commit -m "komit pertama"
+git branch -M utama
+git remote add origin https://github.com/Seliante/Whatsack.git
+git push -u asal utama
